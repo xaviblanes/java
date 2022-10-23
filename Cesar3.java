@@ -1,3 +1,8 @@
+/*******************************************
+**** Un programa que donada una paraula ****
+**** calcula el criptograma en Cècar 3  ****
+*******************************************/
+
 import java.util.Scanner;
 
 public class Cesar3 {
