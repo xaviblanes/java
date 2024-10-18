@@ -1,6 +1,7 @@
 /*******************************************
 **** Un programa que donada una paraula ****
 **** calcula el criptograma en Cècar 3  ****
+**** Xavi Blanes curs 20/21             ****
 *******************************************/
 
 import java.util.Scanner;
